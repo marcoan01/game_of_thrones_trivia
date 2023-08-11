@@ -1,0 +1,1 @@
+768px, height: 1028px: westeros_background.txt
